@@ -1,0 +1,5 @@
+{
+    "Id": "GardenGals.FishExtended",
+    "PackPath": "GardenGals.FishExtended.pck",
+	"Dependencies": ["Sulayre.Lure"]
+}
