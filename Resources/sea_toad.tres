@@ -1,7 +1,7 @@
 [gd_resource type="Resource" load_steps=3 format=2]
 
 [ext_resource path="res://Resources/Scripts/item_resource.gd" type="Script" id=1]
-[ext_resource path="res://Mods/Assets/sea_toad.png" type="Texture" id=2]
+[ext_resource path="res://Mods/GardenGals.FishExtended/Assets/sea_toad.png" type="Texture" id=2]
 
 [resource]
 script = ExtResource( 1 )
