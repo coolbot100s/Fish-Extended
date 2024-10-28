@@ -1,2 +1,3 @@
-# Fish Extended
- A mod adding new fish to WebFishing using GDWeave and Lure
+# Fishing Expanded  
+
+A mod adding new fish to WebFishing using GDWeave and Lure

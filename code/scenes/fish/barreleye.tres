@@ -1,0 +1,39 @@
+[gd_resource type="Resource" load_steps=3 format=2]
+
+[ext_resource path="res://Resources/Scripts/item_resource.gd" type="Script" id=1]
+[ext_resource path="res://mods/fishingexpanded/assets/fish/barreleye.png" type="Texture" id=2]
+
+[resource]
+script = ExtResource( 1 )
+item_name = "Barreleye"
+item_description = "Opisthoproctus soleatus"
+catch_blurb = "What a spooky fish!"
+item_is_hidden = false
+icon = ExtResource( 2 )
+show_item = true
+show_scene = false
+uses_size = true
+action = ""
+action_params = []
+release_action = ""
+prop_code = ""
+help_text = ""
+arm_value = 0.2
+hold_offset = 0.0
+unselectable = false
+category = "fish"
+alive = true
+tier = 2
+catch_difficulty = 5
+catch_speed = 120.0
+loot_table = "ocean"
+loot_weight = 0.2
+average_size = 20
+sell_value = 30
+sell_multiplier = 1
+obtain_xp = 60
+generate_worth = true
+can_be_sold = true
+rare = false
+show_bait = false
+detect_item = false

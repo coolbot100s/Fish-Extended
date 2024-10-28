@@ -1,0 +1,5 @@
+{
+    "Id": "fishingexpanded",
+    "PackPath": "fishingexpanded.pck",
+	"Dependencies": ["Sulayre.Lure"]
+}
