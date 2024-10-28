@@ -4,11 +4,19 @@ A mod for [WebFishing](https://webfishing.pro), adding new fish to collect and b
 We aim to keep a vanilla style and balance while adding extra content and showcasing some of our beloved underwater friends who couldn't make it into the base game.  
 
 ### Installation  
+
+#### Hook Line Sinker
+This mod is also available to be installed using [Hook, Line, &, Sinker](https://hooklinesinker.lol), an easy-to-use launcher for WebFishing mods.
+
+#### Manual Install
 This mod requires [GDWeave](https://github.com/NotNite/GDWeave) and [Lure](https://github.com/Sulayre/WebfishingLure) (at least v2.2.2), don't worry, they're both easy to install or uninstall at any time.  
 After you've installed the dependencies simply extract the latest [release](https://github.com/coolbot100s/FishingExpanded/releases) into your new mods folder!  
 You should have something that looks like this at `...\steamapps\common\WEBFISHING\GDWeave\mods`  
 ![image](https://github.com/user-attachments/assets/5aafba32-b297-4fcd-83a7-ce03698f5f9f)  
 If you're having trouble, make sure you've installed GDWeave's dependency, [.NET8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), and look for the lure logo in your main menu!  
+
+
+
 Keep in mind that while you can play this mod in lobbies, your friends will need to install the mod as well to see your new catches!  
 Feel free to ask for help in the [Garden Gals Discord Server](https://discord.gg/qxRVkGDjdJ) in the dedicated channel.   
 
