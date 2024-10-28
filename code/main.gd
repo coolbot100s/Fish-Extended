@@ -2,7 +2,7 @@ extends Node
 
 
 const ID = "fishingexpanded" 
-const ModVersion = 1
+const ModVersion = "1.0.1"
 onready var Lure = get_node("/root/SulayreLure")
 func _ready():#
 	Lure.add_content(ID,"barreleye","mod://scenes/fish/barreleye.tres")
