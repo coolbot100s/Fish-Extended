@@ -1,6 +1,6 @@
 # Fishing Expanded  
 
-A mod for WebFishing, adding new fish to collect and befriend!  
+A mod for [WebFishing](https://webfishing.pro), adding new fish to collect and befriend!  
 We aim to keep a vanilla style and balance while adding extra content and showcasing some of our beloved underwater friends who couldn't make it into the base game.  
 
 ### Installation  
