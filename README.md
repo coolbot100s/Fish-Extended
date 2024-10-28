@@ -22,11 +22,15 @@ If you'd like to meet the cast, then proceed but be warned... spoilers ahead!
 <details>
 <summary>Ocean Fish</summary>
 
-![sea_toad](https://github.com/user-attachments/assets/648109a3-8788-4167-a344-6a576dbb2dbc)
-![longhorn_cowfish](https://github.com/user-attachments/assets/53dd68f4-b30b-4cc7-9b91-f06ee17de1ee)
-![freckled_porcupinefish](https://github.com/user-attachments/assets/f30f42ce-e857-4fe7-85cf-e889640e0ab1)
-![blobfish](https://github.com/user-attachments/assets/32d00f1d-9b7e-4aa4-a99b-c1eb8b6b9679)
-![barreleye](https://github.com/user-attachments/assets/f7deefce-4f25-406a-8571-63ba2e2e2d50)
+
+| Image | Name | Data |
+|--|--|--|   
+| ![sea_toad](https://github.com/user-attachments/assets/648109a3-8788-4167-a344-6a576dbb2dbc) | Sea Toad | Coming Soon™ |
+| ![longhorn_cowfish](https://github.com/user-attachments/assets/53dd68f4-b30b-4cc7-9b91-f06ee17de1ee) | Longhorn Cowfish | Coming Soon™ |
+| ![freckled_porcupinefish](https://github.com/user-attachments/assets/f30f42ce-e857-4fe7-85cf-e889640e0ab1) | Freckled Porcupinefish | Coming Soon™ |
+| ![blobfish](https://github.com/user-attachments/assets/32d00f1d-9b7e-4aa4-a99b-c1eb8b6b9679) | Blobfish | Coming Soon™ |
+| ![barreleye](https://github.com/user-attachments/assets/f7deefce-4f25-406a-8571-63ba2e2e2d50) | Barreleye | Coming Soon™ |
+
 
 
 </details>
@@ -34,11 +38,13 @@ If you'd like to meet the cast, then proceed but be warned... spoilers ahead!
 <details>
 <summary>Lake Fish</summary>
 
-![river_otter](https://github.com/user-attachments/assets/ce918659-010b-4146-9ef3-aa2021faaa21)
-![pacific_lamprey](https://github.com/user-attachments/assets/13b69c59-44f0-4237-8b16-3866f327dfae)
-![fairy_shrimp](https://github.com/user-attachments/assets/2aff302f-991e-43a4-be58-61e94e14a976)
-![depressed_river_mussel](https://github.com/user-attachments/assets/8595f36e-60ba-47cf-ad7a-3aabba3c34d2)
-![west_indian_manatee](https://github.com/user-attachments/assets/b02d7c64-6bda-49dc-b4c5-8b08de934812)
+| Image | Name | Data |
+|--|--|--|
+| ![pacific_lamprey](https://github.com/user-attachments/assets/13b69c59-44f0-4237-8b16-3866f327dfae) | Pacific Lamprey | Coming Soon™ |
+| ![fairy_shrimp](https://github.com/user-attachments/assets/2aff302f-991e-43a4-be58-61e94e14a976) | Fairy Shrimp | Coming Soon™ |
+| ![depressed_river_mussel](https://github.com/user-attachments/assets/cd1f1a55-0088-4a93-92c0-2d09ec30e5c5) | Depressed River Mussel | Coming Soon™ |
+| ![river_otter](https://github.com/user-attachments/assets/ce918659-010b-4146-9ef3-aa2021faaa21) | River Otter | Coming Soon™ |
+| ![west_indian_manatee](https://github.com/user-attachments/assets/b02d7c64-6bda-49dc-b4c5-8b08de934812) | West Indian Manatee | Coming Soon™ |
 
 </details>
 
