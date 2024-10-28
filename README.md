@@ -1,6 +1,6 @@
 # Fishing Expanded  
 
-A mod for WebFishing, adding new fish to collect and befriend!  
+A mod for [WebFishing](https://webfishing.pro), adding new fish to collect and befriend!  
 We aim to keep a vanilla style and balance while adding extra content and showcasing some of our beloved underwater friends who couldn't make it into the base game.  
 
 ### Installation  
@@ -9,7 +9,7 @@ After you've installed the dependencies simply extract the latest [release](http
 You should have something that looks like this at `...\steamapps\common\WEBFISHING\GDWeave\mods`  
 ![image](https://github.com/user-attachments/assets/5aafba32-b297-4fcd-83a7-ce03698f5f9f)  
 If you're having trouble, make sure you've installed GDWeave's dependency, [.NET8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), and look for the lure logo in your main menu!  
-Keep in mind that while you can play this mod in lobbies, your friends will need to install the mod as well to see your new catches!
+Keep in mind that while you can play this mod in lobbies, your friends will need to install the mod as well to see your new catches!  
 Feel free to ask for help in the [Garden Gals Discord Server](https://discord.gg/qxRVkGDjdJ) in the dedicated channel.   
 
 ## New Fish!  
