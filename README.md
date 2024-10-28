@@ -52,7 +52,8 @@ If you'd like to meet the cast, then proceed but be warned... spoilers ahead!
 ## Appreciations  
 Huge thanks to the lovely people behind GDWeave and especially [Sulayre](https://github.com/Sulayre) for the creation of Lure making this possible.  
 This game is new, and the modding scene is even newer, it barely exists right now yet everyone in the WebFishing Community has been kind and supportive, it took a matter of hours to make this mod thanks to their work.  
-This mod was generated using `Coming Soon`, so check it out if you'd like to add your own fish to the game!
+As always, are created by Kchem.  
+This mod was generated using [Hatchery](https://github.com/coolbot100s/Hatchery/tree/main), so check it out if you'd like to add your own fish to the game!
 
 
 ## Links  
