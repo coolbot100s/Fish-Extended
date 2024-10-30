@@ -5,6 +5,9 @@ We aim to keep a vanilla style and balance while adding extra content and showca
 
 ### Installation  
 
+#### Thunderstore
+You can use Thunderstore to install this mod!
+
 #### Hook Line Sinker
 This mod is also available to be installed using [Hook, Line, &, Sinker](https://hooklinesinker.lol), an easy-to-use launcher for WebFishing mods.
 
