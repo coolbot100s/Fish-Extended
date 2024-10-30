@@ -67,7 +67,11 @@ As always, are created by Kchem.
 This mod was generated using [Hatchery](https://github.com/coolbot100s/Hatchery/tree/main), so check it out if you'd like to add your own fish to the game!
 
 
+
 ## Links  
 [![discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_vector.svg)](https://discord.gg/qxRVkGDjdJ) 
 [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/github_vector.svg)](https://github.com/coolbot100s) 
+[![thunderstore](https://github.com/user-attachments/assets/3e590028-72ab-4067-8733-76dab383915a)](https://thunderstore.io/c/webfishing/p/GardenGals/)
 [![Support us](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/generic-singular_vector.svg)](https://github.com/sponsors/coolbot100s)
+
+
