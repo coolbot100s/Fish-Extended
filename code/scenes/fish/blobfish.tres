@@ -3,6 +3,7 @@
 [ext_resource path="res://Resources/Scripts/item_resource.gd" type="Script" id=1]
 [ext_resource path="res://mods/fishingexpanded/assets/fish/blobfish.png" type="Texture" id=2]
 
+
 [resource]
 script = ExtResource( 1 )
 item_name = "Blobfish"
@@ -14,7 +15,7 @@ show_item = true
 show_scene = false
 uses_size = true
 action = ""
-action_params = [  ]
+action_params = []
 release_action = ""
 prop_code = ""
 help_text = ""

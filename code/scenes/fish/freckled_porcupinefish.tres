@@ -3,11 +3,12 @@
 [ext_resource path="res://Resources/Scripts/item_resource.gd" type="Script" id=1]
 [ext_resource path="res://mods/fishingexpanded/assets/fish/freckled_porcupinefish.png" type="Texture" id=2]
 
+
 [resource]
 script = ExtResource( 1 )
 item_name = "Freckled Porcupinefish"
 item_description = "Diodon holocanthus"
-catch_blurb = "�ugh"
+catch_blurb = "Ã¦ugh"
 item_is_hidden = false
 icon = ExtResource( 2 )
 show_item = true

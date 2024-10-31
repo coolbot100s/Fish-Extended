@@ -1,14 +1,13 @@
 [gd_resource type="Resource" load_steps=3 format=2]
 
 [ext_resource path="res://Resources/Scripts/item_resource.gd" type="Script" id=1]
-[ext_resource path="res://mods/fishingexpanded/assets/fish/barreleye.png" type="Texture" id=2]
-
+[ext_resource path="res://mods/fishingexpanded/assets/fish/whale_shark.png" type="Texture" id=2]
 
 [resource]
 script = ExtResource( 1 )
-item_name = "Barreleye"
-item_description = "Opisthoproctus soleatus"
-catch_blurb = "What a spooky fish!"
+item_name = "Whale Shark"
+item_description = "Rhincodon typus"
+catch_blurb = "Whale done!"
 item_is_hidden = false
 icon = ExtResource( 2 )
 show_item = true
@@ -25,14 +24,14 @@ unselectable = false
 category = "fish"
 alive = true
 tier = 2
-catch_difficulty = 5
+catch_difficulty = 5.5
 catch_speed = 120.0
 loot_table = "ocean"
-loot_weight = 0.2
-average_size = 20
-sell_value = 30
+loot_weight = 0.05
+average_size = 800
+sell_value = 70
 sell_multiplier = 1
-obtain_xp = 60
+obtain_xp = 80
 generate_worth = true
 can_be_sold = true
 rare = false

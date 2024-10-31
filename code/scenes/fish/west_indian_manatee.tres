@@ -3,6 +3,7 @@
 [ext_resource path="res://Resources/Scripts/item_resource.gd" type="Script" id=1]
 [ext_resource path="res://mods/fishingexpanded/assets/fish/west_indian_manatee.png" type="Texture" id=2]
 
+
 [resource]
 script = ExtResource( 1 )
 item_name = "West Indian Manatee"
@@ -14,7 +15,7 @@ show_item = true
 show_scene = false
 uses_size = true
 action = ""
-action_params = [  ]
+action_params = []
 release_action = ""
 prop_code = ""
 help_text = ""
@@ -28,7 +29,7 @@ catch_difficulty = 5.5
 catch_speed = 120.0
 loot_table = "lake"
 loot_weight = 0.08
-average_size = 275.0
+average_size = 275
 sell_value = 80
 sell_multiplier = 1
 obtain_xp = 80
